@@ -1,0 +1,4 @@
+*.log
+.env
+.devctlrc
+test.sh
